@@ -1,6 +1,7 @@
 # LC-Notebook
 Progress for LeetCode :D <br>
-Did some (~ 20 - 30) miscellaneous practice before this repo
+Did some (~ 20 - 30) miscellaneous practice before this repo<br>
+Steep learning curve because unfamiliarity with Python; may have some java solution here and there
 
 - Practice Session Method:
     - 20 minutes: Review problems from 3 & 7 days ago 
