@@ -1,7 +1,7 @@
 # LC-Notebook
 Progress for LeetCode :D <br>
 Did some (~ 20 - 30) miscellaneous practice before this repo<br>
-Steep learning curve because unfamiliarity with Python; may have some java solution here and there
+Primary working with Java & Python
 
 - Practice Session Method:
     - 20 minutes: Review problems from 3 & 7 days ago 
@@ -19,7 +19,7 @@ Steep learning curve because unfamiliarity with Python; may have some java solut
   
 ### Resources:
 -  NeetCode 150 
-    - Started: March 25th 2024
+    - Started: March 28th 2024
     - Finished: N/A
 - Blind 75 (none repeated questions)
 

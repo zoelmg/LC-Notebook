@@ -4,9 +4,9 @@
 
 | Status |             Name             | Level of Diff | Completed Date |
 | :----: | :--------------------------: | :-----------: | -------------: |
-|   []   |     Contains Duplicates      |     Easy      |                |
-|   []   |        Valid Anagram         |     Easy      |                |
-|   []   |            TwoSum            |     Easy      |                |
+|  [x]   |     Contains Duplicates      |     Easy      |     03/28/2024 |
+|  [x]   |        Valid Anagram         |     Easy      |     03/28/2024 |
+|  [x]   |            TwoSum            |     Easy      |     03/28/2024 |
 |   []   |        Group Anagrams        |    Medium     |                |
 |   []   |   Top K Frequent Elements    |    Medium     |                |
 |   []   |         Valid Sudoku         |    Medium     |                |
