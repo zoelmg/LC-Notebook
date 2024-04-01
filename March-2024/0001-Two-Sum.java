@@ -30,7 +30,7 @@ class Solution{
          }
       }
 
-      return new int[];
+      return new int[0];
    }
 }
 
@@ -47,7 +47,7 @@ class Solution{
  class Solution2 {
    public int[] twoSum(int[] arr, int n) {
       HashMap<Integer, Integer> diff = new HashMap<>();
-      for (int i  = 0; i < diff; i++) {
+      for (int i  = 0; i < n; i++) {
          if (diff.containsKey(n - arr[i])) {
             return new int[] {n - arr[i], i};
          } else {
@@ -55,7 +55,7 @@ class Solution{
          }
       }
 
-      return new int[];
+      return new int[0];
    }
 }
 

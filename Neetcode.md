@@ -2,16 +2,16 @@
 
 ## Arrays & Hashing -> Two Pointers & Stack
 
-| Status |             Name             | Level of Diff | Completed Date |
-| :----: | :--------------------------: | :-----------: | -------------: |
-|  [x]   |     Contains Duplicates      |     Easy      |     03/28/2024 |
-|  [x]   |        Valid Anagram         |     Easy      |     03/28/2024 |
-|  [x]   |            TwoSum            |     Easy      |     03/28/2024 |
-|   []   |        Group Anagrams        |    Medium     |                |
-|   []   |   Top K Frequent Elements    |    Medium     |                |
-|   []   |         Valid Sudoku         |    Medium     |                |
-|   []   |  Encode and Decode Strings   |    Medium     |                |
-|   []   | Longest Consecutive Sequence |    Medium     |                |
+|  Status   |             Name             | Level of Diff | Completed Date |
+| :-------: | :--------------------------: | :-----------: | -------------: |
+|    [x]    |     Contains Duplicates      |     Easy      |     03/28/2024 |
+|    [x]    |        Valid Anagram         |     Easy      |     03/28/2024 |
+|    [x]    |            TwoSum            |     Easy      |     03/28/2024 |
+|    [x]    |        Group Anagrams        |    Medium     |     03/29/2024 |
+|    [x]    |   Top K Frequent Elements    |    Medium     |      3/30/2024 |
+|    [x]    |         Valid Sudoku         |    Medium     |      3/31/2024 |
+| [Premium] |  Encode and Decode Strings   |    Medium     |            N/A |
+|    [x]    | Longest Consecutive Sequence |    Medium     |      3/31/2024 |
 
 
 
