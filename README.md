@@ -3,9 +3,6 @@ Progress for LeetCode :D <br>
 Did some (~ 20 - 30) miscellaneous practice before this repo<br>
 Primary working with Java & Python
 
-- Practice Session Method:
-    - 20 minutes: Review problems from 3 & 7 days ago 
-    - Practice Problems (realistically 1 or 2 problems a day during semester)
 - Practice Problem Method (Suggested Timeframe & Guideline: template.py):
     1. 10 minutes attempt; pseudocode/explanation
     2. 15-20 minutes learning with exisitng solution
