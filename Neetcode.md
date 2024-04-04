@@ -21,8 +21,8 @@
 |  [x]   |         Valid Palidromes         |     Easy      |     04/03/2024 |
 |  [x]   | Two Sum II Input Array Is Sorted |    Medium     |     04/03/2024 |
 |  [x]   |               3Sum               |    Medium     |     04/03/2024 |
-|   []   |    Container With Most Water     |    Medium     |                |
-|   []   |       Trapping Rain Water        |    Medium     |                |
+|  [x]   |    Container With Most Water     |    Medium     |     04/03/2024 |
+|  [x]   |       Trapping Rain Water        |     Hard      |                |
 
 ## Stack
 | Status |               Name               | Level of Diff | Completed Date |
