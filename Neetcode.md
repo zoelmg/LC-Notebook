@@ -39,7 +39,7 @@
 ## Binary Search
 | Status |                 Name                 | Level of Diff | Completed Date |
 | :----: | :----------------------------------: | :-----------: | -------------: |
-|   []   |            Binary Search             |     Easy      |                |
+|  [x]   |            Binary Search             |     Easy      |     04/03/2024 |
 |   []   |          Search a 2D Matrix          |    Medium     |                |
 |   []   |         Koko Eating Bananas          |    Medium     |                |
 |   []   | Find Minimum in Rotated Sorted Array |    Medium     |                |
