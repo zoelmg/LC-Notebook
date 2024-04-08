@@ -22,14 +22,14 @@
 |  [x]   | Two Sum II Input Array Is Sorted |    Medium     |     04/03/2024 |
 |  [x]   |               3Sum               |    Medium     |     04/03/2024 |
 |  [x]   |    Container With Most Water     |    Medium     |     04/03/2024 |
-|  [x]   |       Trapping Rain Water        |     Hard      |                |
+|   []   |       Trapping Rain Water        |     Hard      |                |
 
 ## Stack
 | Status |               Name               | Level of Diff | Completed Date |
 | :----: | :------------------------------: | :-----------: | -------------: |
-|   []   |        Valid Parenthesis         |     Easy      |                |
-|   []   |            Min Stack             |    Medium     |                |
-|   []   | Evaluate Reverse Polish Notation |    Medium     |                |
+|  [x]   |        Valid Parenthesis         |     Easy      |     04/07/2024 |
+|  [x]   |            Min Stack             |    Medium     |     04/07/2024 |
+|  [x]   | Evaluate Reverse Polish Notation |    Medium     |     04/07/2024 |
 |   []   |       Generate Parenthesis       |    Medium     |                |
 |   []   |        Daily Temperatures        |    Medium     |                |
 |   []   |            Car Fleet             |    Medium     |                |
@@ -40,7 +40,7 @@
 | Status |                 Name                 | Level of Diff | Completed Date |
 | :----: | :----------------------------------: | :-----------: | -------------: |
 |  [x]   |            Binary Search             |     Easy      |     04/03/2024 |
-|   []   |          Search a 2D Matrix          |    Medium     |                |
+|  [x]   |          Search a 2D Matrix          |    Medium     |     04/03/2024 |
 |   []   |         Koko Eating Bananas          |    Medium     |                |
 |   []   | Find Minimum in Rotated Sorted Array |    Medium     |                |
 |   []   |    Search In Rotated Sorted Array    |    Medium     |                |
@@ -79,6 +79,8 @@
 |   []   | Construct Binary Tree From Preorder And Inorder Traversal |    Medium     |                |
 |   []   |               Binary Tree Maximum Path Sum                |     Hard      |                |
 |   []   |           Serialize And Deserialize Binary Tree           |     Hard      |                |
+
+
 ## Heap & Priority Queues
 
 ## BackTracking
