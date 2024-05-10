@@ -29,8 +29,8 @@
 | :----: | :------------------------------: | :-----------: | -------------: |
 |  [x]   |        Valid Parenthesis         |     Easy      |     04/07/2024 |
 |   []   |            Min Stack             |    Medium     |                |
-|   []   | Evaluate Reverse Polish Notation |    Medium     |                |
-|   []   |       Generate Parenthesis       |    Medium     |                |
+|  [x]   | Evaluate Reverse Polish Notation |    Medium     |     05/10/2024 | 
+|   []   |       Generate Parenthesis       |    Medium     |                | **
 |   []   |        Daily Temperatures        |    Medium     |                |
 |   []   |            Car Fleet             |    Medium     |                |
 |   []   |  Largest Rectangle In Histogram  |     Hard      |                |
