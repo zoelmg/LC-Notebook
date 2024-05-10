@@ -69,12 +69,18 @@
 
 Reflection and key notes goes here
 - Why was my initial approach wrong?
+N/A
 - What new syntax/library did I learn? Why should I use these 
    new libraries and syntax?
+N/A
 - What is the high level learned new approach? 
+N/A
 - What is the runtime of this approach?
+N/A
 - What is the space complexity of this approach?
+N/A
 - Most difficult part of this approach?
+N/A
 
  */
 

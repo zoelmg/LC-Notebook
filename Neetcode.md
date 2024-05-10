@@ -1,6 +1,6 @@
 # NeetCode Topics
 
-## Arrays & Hashing -> Two Pointers & Stack
+## Arrays & Hashing 
 
 |  Status   |             Name             | Level of Diff | Completed Date |
 | :-------: | :--------------------------: | :-----------: | -------------: |
@@ -15,7 +15,7 @@
 
 
 
-## Two Pointers -> Binary Search & Sliding Window & LinkedList
+## Two Pointers
 | Status |               Name               | Level of Diff | Completed Date |
 | :----: | :------------------------------: | :-----------: | -------------: |
 |  [x]   |         Valid Palidromes         |     Easy      |     04/03/2024 |
@@ -28,8 +28,8 @@
 | Status |               Name               | Level of Diff | Completed Date |
 | :----: | :------------------------------: | :-----------: | -------------: |
 |  [x]   |        Valid Parenthesis         |     Easy      |     04/07/2024 |
-|  [x]   |            Min Stack             |    Medium     |     04/07/2024 |
-|  [x]   | Evaluate Reverse Polish Notation |    Medium     |     04/07/2024 |
+|   []   |            Min Stack             |    Medium     |                |
+|   []   | Evaluate Reverse Polish Notation |    Medium     |                |
 |   []   |       Generate Parenthesis       |    Medium     |                |
 |   []   |        Daily Temperatures        |    Medium     |                |
 |   []   |            Car Fleet             |    Medium     |                |
@@ -51,8 +51,8 @@
 ## Sliding Window
 | Status |                      Name                      | Level of Diff | Completed Date |
 | :----: | :--------------------------------------------: | :-----------: | -------------: |
-|   []   |         Best Time to Buy & Sell Stock          |     Easy      |                |
-|   []   | Longest Substring Without Repeating Characters |    Medium     |                |
+|  [x]   |         Best Time to Buy & Sell Stock          |     Easy      |     04/07/2024 |
+|  [x]   | Longest Substring Without Repeating Characters |    Medium     |     04/07/2024 |
 |   []   |    Longest Repeating Character Replacement     |    Medium     |                |
 |   []   |             Permutation In String              |    Medium     |                |
 |   []   |            Minimum Window Substring            |     Hard      |                |
@@ -60,17 +60,30 @@
 
 
 ## Linked List
+| Status |               Name               | Level of Diff | Completed Date |
+| :----: | :------------------------------: | :-----------: | -------------: |
+|   []   |       Reverse Linked List        |     Easy      |                |
+|   []   |      Merge Two Sorted List       |     East      |                |
+|   []   |        Linked List Cycle         |     Easy      |                |
+|   []   |           Reorder List           |    Medium     |                |
+|   []   | Remove Nth Node From End of List |    Medium     |                |
+|   []   |  Copy List With Random Pointer   |    Medium     |                |
+|   []   |         Add Two Numbers          |    Medium     |                |
+|   []   |    Find the Duplicate Number     |    Medium     |                |
+|   []   |            LRU Cache             |    Medium     |                |
+|   []   |       Merge K Sorted Lists       |    Medium     |                |
+|   []   |     Reverse Nodes in Groups      |    Medium     |                |
 
 ## Trees
 | Status |                           Name                            | Level of Diff | Completed Date |
 | :----: | :-------------------------------------------------------: | :-----------: | -------------: |
-|   []   |                    Invert Binary Tree                     |     Easy      |                |
-|   []   |               Maximum Depth of Binary Tree                |    Medium     |                |
-|   []   |                  Diameter of Binary Tree                  |    Medium     |                |
-|   []   |                   Balanced Binary Tree                    |    Medium     |                |
-|   []   |                         Same Tree                         |     Hard      |                |
-|   []   |                  Subtree of Another Tree                  |     Hard      |                |
-|   []   |      Lowest Common Ancestor of a Binary Search Tree       |     Easy      |                |
+|  [x]   |                    Invert Binary Tree                     |     Easy      |     04/07/2024 |
+|  [x]   |               Maximum Depth of Binary Tree                |     Easy      |     04/07/2024 |
+|  [x]   |                  Diameter of Binary Tree                  |     Easy      |     04/07/2024 |
+|  [x]   |                   Balanced Binary Tree                    |     Easy      |     04/07/2024 |
+|  [x]   |                         Same Tree                         |     Easy      |     04/07/2024 |
+|  [x]   |                  Subtree of Another Tree                  |     Easy      |     04/07/2024 |
+|  [x]   |          Lowest Common Ancestor of a Binary Tree          |    Medium     |     04/07/2024 |
 |   []   |             Binary Tree Level Order Traversal             |    Medium     |                |
 |   []   |                Binary Tree Right Side View                |    Medium     |                |
 |   []   |              Count Good Nodes In Binary Tree              |    Medium     |                |
